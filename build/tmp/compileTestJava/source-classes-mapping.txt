@@ -1,0 +1,30 @@
+factoryDevices/Ios.java
+ factoryDevices.Ios
+factoryDevices/IDevice.java
+ factoryDevices.IDevice
+session/Session.java
+ session.Session
+activities/CreateTaskScreen.java
+ activities.CreateTaskScreen
+controles/TextBox.java
+ controles.TextBox
+factoryDevices/FactoryDevice.java
+ factoryDevices.FactoryDevice
+factoryDevices/Android.java
+ factoryDevices.Android
+controles/AppiumControl.java
+ controles.AppiumControl
+controles/Link.java
+ controles.Link
+controles/Button.java
+ controles.Button
+controles/Label.java
+ controles.Label
+activities/OptionsScreen.java
+ activities.OptionsScreen
+activities/MainActivity.java
+ activities.MainActivity
+activities/ConfirmDeleteScreen.java
+ activities.ConfirmDeleteScreen
+testClean/WhenDoTest.java
+ testClean.WhenDoTest
